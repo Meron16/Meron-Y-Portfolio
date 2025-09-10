@@ -9,7 +9,7 @@ const experiences = [
     company: "helder Technologies.",
     period: "2025 - Present",
     description:
-      "Lead the frontend development team in building a SaaS platform. Implemented new features, improved performance, and mentored junior developers.",
+      "Lead the backend development team in building websites and management systems. Implemented new features, and improved performance.",
   },
   {
     title: "Web Developer",
@@ -21,14 +21,14 @@ const experiences = [
   {
     title: "Web Developer",
     company: "Freelance",
-    period: "2014 - present",
+    period: "2022 - present",
     description:
-      "Built websites and web applications for various clients. Worked with HTML, CSS, JavaScript, and WordPress.",
+      "Built websites and web applications for various clients. Worked with Node js, next js, Tailwind CSS, JavaScript, MongoDB, Mysql and Laravel.",
   },
   {
-    title: "Intern",
-    company: "Startup Hub",
-    period: "2016 - 2017",
+    title: "Fullstack Developer intern",
+    company: "Saiket company",
+    period: "2025 - present",
     description: "Assisted in developing web applications and learned modern web development practices.",
   },
 ]

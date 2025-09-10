@@ -228,39 +228,39 @@ export default function Portfolio() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
             <ProjectCard
-              title="E-commerce Platform"
-              description="A full-stack e-commerce platform built with Next.js, Stripe, and Prisma."
-              tags={["Next.js", "TypeScript", "Prisma", "Stripe"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              title="Knowledge First Website"
+              description="A full-stack website built with Next.js, Tailwind css, and Node js."
+              tags={["Next.js", "Laravel",]}
+              image="/knowledge.PNG?height=400&width=600"
+              demoUrl="https://kfadmin.dreyobmamo.com/"
+              repoUrl="https://github.com/Meron16/Knowldege-first.git"
             />
             <ProjectCard
-              title="Task Management App"
-              description="A collaborative task management application with real-time updates."
-              tags={["React", "Firebase", "Tailwind CSS", "Redux"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              title="Blue Nile Hotel Website"
+              description="A full-stack website built with React.js, Tailwind css, and Node js."
+              tags={["React", "Node js", "Tailwind CSS"]}
+              image="/bluenile.PNG?height=400&width=600"
+              demoUrl="https://blue-nile-hotel.vercel.app/"
+              repoUrl="https://github.com/Meron16/blue-nile-hotel.git"
             />
             <ProjectCard
-              title="AI Content Generator"
-              description="An AI-powered content generation tool using OpenAI's GPT models."
+              title="AI Agent Recuritor"
+              description="An AI-powered Agent Recuritor tool using OpenAI's GPT models."
               tags={["Next.js", "OpenAI API", "Node.js", "MongoDB"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/ai.png?height=400&width=600"
               demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              repoUrl="https://github.com/Meron16/AI-Agent-Recruiter.git"
             />
             <ProjectCard
-              title="Fitness Tracker"
+              title="InsureHub Management"
               description="A mobile-first fitness tracking application with data visualization."
               tags={["React Native", "TypeScript", "D3.js", "Firebase"]}
-              image="/placeholder.svg?height=400&width=600"
+              image="/insurehab.PNG?height=400&width=600"
               demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              repoUrl="https://github.com/Meron16/InsureHub-Dashboard.git"
             />
             <ProjectCard
-              title="Weather Dashboard"
+              title="Weather App"
               description="A beautiful weather dashboard with forecasts and historical data."
               tags={["React", "Weather API", "Chart.js", "Styled Components"]}
               image="/placeholder.svg?height=400&width=600"
@@ -271,9 +271,9 @@ export default function Portfolio() {
               title="Portfolio Website"
               description="This portfolio website built with Next.js and Tailwind CSS."
               tags={["Next.js", "Tailwind CSS", "Framer Motion", "TypeScript"]}
-              image="/placeholder.svg?height=400&width=600"
-              demoUrl="https://example.com"
-              repoUrl="https://github.com"
+              image="/portfolio.PNG?height=400&width=600"
+              demoUrl="https://meron-y-portfolio.vercel.app/"
+              repoUrl="https://github.com/Meron16/Meron-Y-Portfolio.git"
             />
           </div>
         </div>
